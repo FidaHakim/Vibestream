@@ -1,0 +1,6 @@
+{
+  "name": "VibeStream",
+  "description": "A premium Spotify-inspired music player featuring dark mode aesthetics, local and online search, TheAudioDB metadata integration, and custom sound wave visualizers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
